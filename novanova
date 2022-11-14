@@ -44,7 +44,6 @@
 "force_download_player_apk_tv":true,
 "force_download_player_apk_phone":true,
 "oneplayer_version_build":"23",
-"enable_insthall_player_new":true,
 "pkg_player_new":"com.ae.video.bplayer",
 "name_player_new":"BPlayer",
 "des_player_new":"Best player to work with Novatv",
