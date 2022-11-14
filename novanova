@@ -1,5 +1,5 @@
 {
-"status": 0,
+"status": 1,
 "survey_title": "",  
 "survey_content": "",  
 "survey_type": "",  
@@ -7,7 +7,7 @@
 "left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by NovaTV, please install VLC player to play audio.",  
-"package_not_support_audio":"org.videolan.vlc",  
+"package_not_support_audio":"",  
 "link_not_audio":"https://github.com/BeeApp11/tententen/releases/download/3.2.12/vlc3212.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
