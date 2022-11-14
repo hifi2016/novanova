@@ -35,7 +35,7 @@
 "zma_key":"9f3c29fbf5bd463195dc7bba84c04737",
 "zma_key_134":"bff8021413c64d1eb9f3f9ef6743ecf2",
 "enable_install_player":true,
-"enable_force_player":true,
+"enable_force_player":0,
 "title_player":"Polygon Player",
 "description_player":"Best player to work with NovaTV. Less ads and better streaming!",
 "link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.2.0r/1.2.0r.apk",
